@@ -10,8 +10,7 @@
 1. Lab 3
 
 ## ArcGIS Pro Integration with Anaconda (Spyder / Jupyter Notebook)
-This is working! I will post screen shots on Canvas.
-Work on getting ArcGIS integrated with Anaconda (Spyer or Jupyter Notebook)
+Working on having a VM.
 
 This will allow you to execute your file in Python
 exec(open(r"").read())
